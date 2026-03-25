@@ -1,0 +1,11 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "A simple demo project to push to GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Arsalan",
+  "license": "MIT"
+}
